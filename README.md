@@ -1,4 +1,5 @@
 # CRUZE SCAN
+<img width="960" alt="{D60BDA49-0D3E-4C8B-B87B-DDD2EDB35E18}" src="https://github.com/user-attachments/assets/5d25b079-770a-44d4-acd6-100f13e1e0c2" />
 
 Advanced online virus scanner and malware detection tool. Analyze suspicious files, domains, IPs and URLs to detect security threats.
 
